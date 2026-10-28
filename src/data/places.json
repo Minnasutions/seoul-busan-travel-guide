@@ -1,0 +1,543 @@
+[
+  {
+    "id": "gyeongbokgung",
+    "city": "Seoul",
+    "name": "Gyeongbokgung Palace",
+    "korean": "경복궁",
+    "category": "palaces",
+    "wiki": "Gyeongbokgung",
+    "description": "The largest of Seoul's five Joseon-era royal palaces, with grand throne halls, a lotus-pond pavilion and the Changing of the Royal Guard ceremony at the main gate.",
+    "bestTime": "Spring or autumn mornings. Entry is free if you wear hanbok. Closed Tuesdays.",
+    "transport": "Gyeongbokgung Station (Line 3), Exit 5",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/960px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "서울관광 아카이브",
+      "license": "KOGL Type 1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg"
+    }
+  },
+  {
+    "id": "changdeokgung",
+    "city": "Seoul",
+    "name": "Changdeokgung Palace & Secret Garden",
+    "korean": "창덕궁",
+    "category": "palaces",
+    "wiki": "Changdeokgung",
+    "description": "A UNESCO-listed palace that follows the natural landscape, famous for its tranquil Huwon (Secret Garden) of ponds and pavilions.",
+    "bestTime": "Autumn foliage in late October. Book the Secret Garden tour ahead. Closed Mondays.",
+    "transport": "Anguk Station (Line 3), Exit 3",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg/960px-%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "문화재청",
+      "license": "KOGL Type 1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_(2012).jpg"
+    }
+  },
+  {
+    "id": "deoksugung",
+    "city": "Seoul",
+    "name": "Deoksugung Palace",
+    "korean": "덕수궁",
+    "category": "palaces",
+    "wiki": "Deoksugung",
+    "description": "A compact palace in the city centre where traditional halls stand beside Western-style stone buildings, next to the leafy Deoksugung stone-wall road.",
+    "bestTime": "Late afternoon into evening when the palace is lit up. Closed Mondays.",
+    "transport": "City Hall Station (Lines 1 & 2), Exit 2",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg/960px-%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "문화재청",
+      "license": "KOGL Type 1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_(2013).jpg"
+    }
+  },
+  {
+    "id": "bukchon",
+    "city": "Seoul",
+    "name": "Bukchon Hanok Village",
+    "korean": "북촌한옥마을",
+    "category": "palaces",
+    "wiki": "Bukchon Hanok Village",
+    "description": "Hillside lanes packed with hundreds of traditional hanok houses between Gyeongbokgung and Changdeokgung, with views over the old city rooftops.",
+    "bestTime": "Weekday mornings. Visiting hours are 10:00–17:00 because people live here, so keep quiet.",
+    "transport": "Anguk Station (Line 3), Exit 2",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bukchon_Hanok_Village_01.jpg/960px-Bukchon_Hanok_Village_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Bgag",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_01.jpg"
+    }
+  },
+  {
+    "id": "national-museum",
+    "city": "Seoul",
+    "name": "National Museum of Korea",
+    "korean": "국립중앙박물관",
+    "category": "palaces",
+    "wiki": "National Museum of Korea",
+    "description": "Korea's flagship museum covering prehistory to the Joseon dynasty, with a serene meditation room for two famous Pensive Bodhisattva statues. Free entry.",
+    "bestTime": "Any time, a great rainy-day option. Open late on Wednesdays and Saturdays.",
+    "transport": "Ichon Station (Line 4 / Gyeongui-Jungang Line), Exit 2",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/960px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Richard Mortel from Riyadh, Saudi Arabia",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Korea,_Seoul_(2)_(40236586235).jpg"
+    }
+  },
+  {
+    "id": "jogyesa",
+    "city": "Seoul",
+    "name": "Jogyesa Temple",
+    "korean": "조계사",
+    "category": "temples",
+    "wiki": "Jogyesa",
+    "description": "The head temple of Korean Zen Buddhism, right in downtown Seoul, surrounded by ancient trees and colourful lanterns.",
+    "bestTime": "Around Buddha's Birthday (April–May) for the Lotus Lantern Festival.",
+    "transport": "Jonggak Station (Line 1), Exit 2",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Jogyesa_Temple_%281509839597%29.jpg/960px-Jogyesa_Temple_%281509839597%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Francisco Anzola",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jogyesa_Temple_(1509839597).jpg"
+    }
+  },
+  {
+    "id": "bongeunsa",
+    "city": "Seoul",
+    "name": "Bongeunsa Temple",
+    "korean": "봉은사",
+    "category": "temples",
+    "wiki": "Bongeunsa",
+    "description": "A thousand-year-old temple with a giant standing Maitreya Buddha, set against the skyscrapers of Gangnam. Offers short temple-stay programs.",
+    "bestTime": "Early morning or around Buddha's Birthday.",
+    "transport": "Bongeunsa Station (Line 9), Exit 1",
+    "photo": null
+  },
+  {
+    "id": "bukhansan",
+    "city": "Seoul",
+    "name": "Bukhansan National Park",
+    "korean": "북한산국립공원",
+    "category": "nature",
+    "wiki": "Bukhansan National Park",
+    "description": "Granite peaks on Seoul's northern edge. The climb to Baegundae summit (836 m) rewards you with sweeping views of the whole city.",
+    "bestTime": "October for autumn colours. Start early and bring water.",
+    "transport": "Gupabal Station (Line 3), Exit 1, then bus 704 to Bukhansanseong",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Bukhansan_National_Park_2006-03-28.JPG/960px-Bukhansan_National_Park_2006-03-28.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "No machine-readable author provided. Geomr~commonswiki assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukhansan_National_Park_2006-03-28.JPG"
+    }
+  },
+  {
+    "id": "cheonggyecheon",
+    "city": "Seoul",
+    "name": "Cheonggyecheon Stream",
+    "korean": "청계천",
+    "category": "nature",
+    "wiki": "Cheonggyecheon",
+    "description": "An 11 km restored stream running below street level through downtown, perfect for an evening walk with lights and stepping stones.",
+    "bestTime": "Evenings, and November for the Seoul Lantern Festival.",
+    "transport": "Gwanghwamun Station (Line 5), Exit 5",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg/960px-Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg"
+    }
+  },
+  {
+    "id": "yeouido",
+    "city": "Seoul",
+    "name": "Yeouido Hangang Park",
+    "korean": "여의도한강공원",
+    "category": "nature",
+    "wiki": "Yeouido",
+    "description": "Seoul's favourite riverside park for picnics, bike rentals, fried-chicken deliveries and the spring cherry blossom road.",
+    "bestTime": "Early April for cherry blossoms; summer evenings for the night markets.",
+    "transport": "Yeouinaru Station (Line 5), Exit 2 or 3",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Yeouido2025.jpg/960px-Yeouido2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kimhs5400",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yeouido2025.jpg"
+    }
+  },
+  {
+    "id": "gwangjang",
+    "city": "Seoul",
+    "name": "Gwangjang Market",
+    "korean": "광장시장",
+    "category": "food",
+    "wiki": "Gwangjang Market",
+    "description": "One of Korea's oldest markets and a street-food paradise: crispy bindaetteok mung-bean pancakes, mayak gimbap and fresh yukhoe.",
+    "bestTime": "Lunch or early evening. Many stalls close on Sundays.",
+    "transport": "Jongno 5-ga Station (Line 1), Exit 8",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Gwangjang_Market%2C_Seoul_01.jpg/960px-Gwangjang_Market%2C_Seoul_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Bgag",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_01.jpg"
+    }
+  },
+  {
+    "id": "namdaemun",
+    "city": "Seoul",
+    "name": "Namdaemun Market",
+    "korean": "남대문시장",
+    "category": "food",
+    "wiki": "Namdaemun Market",
+    "description": "A sprawling traditional market near Sungnyemun Gate, known for hotteok, kalguksu alley, and cheap clothes, kitchenware and souvenirs.",
+    "bestTime": "Weekday mornings to mid-afternoon. Quieter on Sundays.",
+    "transport": "Hoehyeon Station (Line 4), Exit 5",
+    "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/%EB%82%A8%EB%8C%80%EB%AC%B8_%EC%A4%91%EC%95%99%EB%A1%9C%EC%9D%98_%EC%9D%B4%EB%8F%99%EC%8B%9D_%EB%85%B8%EC%A0%90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Seoul Museum of History",
+      "license": "KOGL Type 1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%82%A8%EB%8C%80%EB%AC%B8_%EC%A4%91%EC%95%99%EB%A1%9C%EC%9D%98_%EC%9D%B4%EB%8F%99%EC%8B%9D_%EB%85%B8%EC%A0%90.jpg"
+    }
+  },
+  {
+    "id": "ikseondong",
+    "city": "Seoul",
+    "name": "Ikseon-dong Hanok Street",
+    "korean": "익선동",
+    "category": "food",
+    "wiki": "Ikseon-dong",
+    "description": "Narrow alleys of 1920s hanok converted into trendy cafés, bakeries and restaurants. One of Seoul's most photogenic food spots.",
+    "bestTime": "Weekday afternoons to avoid long queues.",
+    "transport": "Jongno 3-ga Station (Lines 1, 3 & 5), Exit 4",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/View_of_Ikseon-dong_from_National_Tax_Service_Jongno_District_Office.jpg/960px-View_of_Ikseon-dong_from_National_Tax_Service_Jongno_District_Office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "오모군",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Ikseon-dong_from_National_Tax_Service_Jongno_District_Office.jpg"
+    }
+  },
+  {
+    "id": "myeongdong",
+    "city": "Seoul",
+    "name": "Myeongdong",
+    "korean": "명동",
+    "category": "shopping",
+    "wiki": "Myeong-dong",
+    "description": "Seoul's busiest shopping district for K-beauty and fashion, which turns into a street-food market every evening.",
+    "bestTime": "From 17:00 when the street-food stalls open.",
+    "transport": "Myeongdong Station (Line 4), Exit 6",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%EB%AA%85%EB%8F%998%EA%B8%B8_%EA%B1%B0%EB%A6%AC_%282020.03%29.jpg/960px-%EB%AA%85%EB%8F%998%EA%B8%B8_%EA%B1%B0%EB%A6%AC_%282020.03%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "서울연구데이터서비스",
+      "license": "KOGL Type 1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%AA%85%EB%8F%998%EA%B8%B8_%EA%B1%B0%EB%A6%AC_(2020.03).jpg"
+    }
+  },
+  {
+    "id": "insadong",
+    "city": "Seoul",
+    "name": "Insadong",
+    "korean": "인사동",
+    "category": "shopping",
+    "wiki": "Insa-dong",
+    "description": "A street of traditional craft shops, tea houses and galleries, including the spiral Ssamziegil mall. Good for souvenirs.",
+    "bestTime": "Sunday afternoons when the main street is car-free.",
+    "transport": "Anguk Station (Line 3), Exit 6",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_20.jpg/960px-Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "S h y numis",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Insa-dong_%EC%9D%B8%EC%82%AC%EB%8F%99_October_1_2020_20.jpg"
+    }
+  },
+  {
+    "id": "ddp",
+    "city": "Seoul",
+    "name": "Dongdaemun Design Plaza (DDP)",
+    "korean": "동대문디자인플라자",
+    "category": "culture",
+    "wiki": "Dongdaemun Design Plaza",
+    "description": "Zaha Hadid's futuristic curved landmark hosting exhibitions and a rose LED garden, surrounded by late-night fashion malls.",
+    "bestTime": "After dark for the lights and the media façade show.",
+    "transport": "Dongdaemun History & Culture Park Station (Lines 2, 4 & 5), Exit 1",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg/960px-Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Eugene Lim",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_at_night,_Seoul,_Korea.jpg"
+    }
+  },
+  {
+    "id": "n-seoul-tower",
+    "city": "Seoul",
+    "name": "N Seoul Tower",
+    "korean": "남산서울타워",
+    "category": "culture",
+    "wiki": "Namsan (Seoul)",
+    "description": "Seoul's iconic tower on Namsan mountain with a 360° observatory, love-lock terraces and the best city views.",
+    "bestTime": "Sunset into night. Take the Namsan cable car or hike up.",
+    "transport": "Myeongdong Station (Line 4), Exit 3, then walk to the Namsan cable car",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Namsan_and_Namsan_Tour_at_Dusk.jpg/960px-Namsan_and_Namsan_Tour_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "서울관광 아카이브",
+      "license": "KOGL Type 1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namsan_and_Namsan_Tour_at_Dusk.jpg"
+    }
+  },
+  {
+    "id": "lotte-world-tower",
+    "city": "Seoul",
+    "name": "Lotte World Tower & Seoul Sky",
+    "korean": "롯데월드타워",
+    "category": "culture",
+    "wiki": "Lotte World Tower",
+    "description": "Korea's tallest building (555 m) with a glass-floored observatory, a huge mall, an aquarium and Seokchon Lake next door.",
+    "bestTime": "Clear days near sunset. Lake cherry blossoms in early April.",
+    "transport": "Jamsil Station (Lines 2 & 8), Exit 1 or 2",
+    "photo": null
+  },
+  {
+    "id": "starfield-library",
+    "city": "Seoul",
+    "name": "Starfield Library (COEX)",
+    "korean": "별마당도서관",
+    "category": "culture",
+    "wiki": "Starfield COEX Mall",
+    "description": "A free public library inside COEX Mall with 13 m-tall bookshelves, one of Seoul's most photographed interiors.",
+    "bestTime": "Weekday mornings for fewer crowds.",
+    "transport": "Bongeunsa Station (Line 9), Exit 7, or Samseong Station (Line 2), Exit 5",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Starfield_Library.jpg/960px-Starfield_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Republic of Korea",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starfield_Library.jpg"
+    }
+  },
+  {
+    "id": "hongdae",
+    "city": "Seoul",
+    "name": "Hongdae",
+    "korean": "홍대",
+    "category": "culture",
+    "wiki": "Hongdae, Seoul",
+    "description": "The youthful area around Hongik University known for street buskers, indie shops, clubs and photo booths.",
+    "bestTime": "Friday or Saturday evenings for live street performances.",
+    "transport": "Hongik University Station (Line 2 / AREX), Exit 9",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Street_hongdae_Seoul.jpg/960px-Street_hongdae_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "U0894629",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Street_hongdae_Seoul.jpg"
+    }
+  },
+  {
+    "id": "seongsu",
+    "city": "Seoul",
+    "name": "Seongsu-dong",
+    "korean": "성수동",
+    "category": "culture",
+    "wiki": "Seongsu-dong",
+    "description": "Seoul's 'Brooklyn': old factories turned into concept stores, pop-up shops and specialty coffee roasters, next to Seoul Forest.",
+    "bestTime": "Weekend afternoons for the latest brand pop-ups.",
+    "transport": "Seongsu Station (Line 2), Exit 3",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Evening_street_in_Seongsu-dong.jpg/960px-Evening_street_in_Seongsu-dong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "CartoonChess",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_street_in_Seongsu-dong.jpg"
+    }
+  },
+  {
+    "id": "haeundae",
+    "city": "Busan",
+    "name": "Haeundae Beach",
+    "korean": "해운대해수욕장",
+    "category": "nature",
+    "wiki": "Haeundae Beach",
+    "description": "Korea's most famous beach: a 1.5 km curve of sand backed by skyscrapers, with the Dongbaekseom island walk at its western end.",
+    "bestTime": "June–August for swimming; the Sand Festival in late May or early June.",
+    "transport": "Haeundae Station (Line 2), Exit 3 or 5",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Haeundae_Beach_May_2024.jpg/960px-Haeundae_Beach_May_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Brit in Seoul",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haeundae_Beach_May_2024.jpg"
+    }
+  },
+  {
+    "id": "gwangalli",
+    "city": "Busan",
+    "name": "Gwangalli Beach",
+    "korean": "광안리해수욕장",
+    "category": "nature",
+    "wiki": "Gwangalli Beach",
+    "description": "A lively beach facing the illuminated Gwangan Bridge, lined with cafés and seafood restaurants. Hosts a drone light show on Saturday nights.",
+    "bestTime": "Saturday evenings for the drone show; November for the Busan Fireworks Festival.",
+    "transport": "Gwangan Station (Line 2), Exit 3 or 5",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Gwangalli_Beach.jpg/960px-Gwangalli_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Chelsea Hicks",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangalli_Beach.jpg"
+    }
+  },
+  {
+    "id": "taejongdae",
+    "city": "Busan",
+    "name": "Taejongdae",
+    "korean": "태종대",
+    "category": "nature",
+    "wiki": "Taejongdae",
+    "description": "Dramatic sea cliffs, a lighthouse and pine forest at the southern tip of Yeongdo island. Ride the Danubi tour train around the loop.",
+    "bestTime": "Clear days, when you can sometimes see Japan's Tsushima Island.",
+    "transport": "Nampo Station (Line 1), then bus 8, 30 or 66 to Taejongdae",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Korea-Busan-Taejongdae-03.jpg/960px-Korea-Busan-Taejongdae-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "*intacto",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Busan-Taejongdae-03.jpg"
+    }
+  },
+  {
+    "id": "blueline-park",
+    "city": "Busan",
+    "name": "Haeundae Blueline Park",
+    "korean": "해운대블루라인파크",
+    "category": "nature",
+    "wiki": "Haeundae Blueline Park",
+    "description": "Colourful sky capsules and a beach train running along the coastal railway from Mipo to Cheongsapo and Songjeong.",
+    "bestTime": "Sunset. Book sky capsule tickets online in advance.",
+    "transport": "Jung-dong Station (Line 2), Exit 7, walk to Mipo Station",
+    "photo": null
+  },
+  {
+    "id": "haedong-yonggungsa",
+    "city": "Busan",
+    "name": "Haedong Yonggungsa Temple",
+    "korean": "해동용궁사",
+    "category": "temples",
+    "wiki": "Haedong Yonggungsa",
+    "description": "A rare seaside temple built on rocks right above the crashing waves, especially beautiful at sunrise.",
+    "bestTime": "Early morning before tour buses arrive; Buddha's Birthday for lanterns.",
+    "transport": "OSIRIA Station (Donghae Line), then bus 139 or a 20-minute walk",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC_%EC%82%AC%EC%B0%B0_%EC%A0%84%EA%B2%BD.jpg/960px-%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC_%EC%82%AC%EC%B0%B0_%EC%A0%84%EA%B2%BD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "박혜민",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC_%EC%82%AC%EC%B0%B0_%EC%A0%84%EA%B2%BD.jpg"
+    }
+  },
+  {
+    "id": "beomeosa",
+    "city": "Busan",
+    "name": "Beomeosa Temple",
+    "korean": "범어사",
+    "category": "temples",
+    "wiki": "Beomeosa",
+    "description": "A major mountain temple on Geumjeongsan, founded in 678, with forest trails leading up to Geumjeong Fortress.",
+    "bestTime": "Spring and autumn; combine with a hike on Geumjeongsan.",
+    "transport": "Beomeosa Station (Line 1), Exit 5, then bus 90",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/298-1_%EC%B5%9C%EC%88%98%EC%A7%84_%EB%B2%94%EC%96%B4%EC%82%AC%EC%9D%98_%EA%B0%80%EC%9D%84.jpg/960px-298-1_%EC%B5%9C%EC%88%98%EC%A7%84_%EB%B2%94%EC%96%B4%EC%82%AC%EC%9D%98_%EA%B0%80%EC%9D%84.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "부산광역시, 부산관광공사",
+      "license": "KOGL Type 1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:298-1_%EC%B5%9C%EC%88%98%EC%A7%84_%EB%B2%94%EC%96%B4%EC%82%AC%EC%9D%98_%EA%B0%80%EC%9D%84.jpg"
+    }
+  },
+  {
+    "id": "jagalchi",
+    "city": "Busan",
+    "name": "Jagalchi Fish Market",
+    "korean": "자갈치시장",
+    "category": "food",
+    "wiki": "Jagalchi Fish Market",
+    "description": "Korea's largest seafood market. Choose your fish downstairs and have it prepared as fresh sashimi upstairs.",
+    "bestTime": "Morning for the liveliest market; lunch for raw-fish platters.",
+    "transport": "Jagalchi Station (Line 1), Exit 10",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Jagalchi_Market_20200523_019.jpg/960px-Jagalchi_Market_20200523_019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mobius6",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jagalchi_Market_20200523_019.jpg"
+    }
+  },
+  {
+    "id": "gukje",
+    "city": "Busan",
+    "name": "Gukje Market & BIFF Square",
+    "korean": "국제시장",
+    "category": "shopping",
+    "wiki": "Gukje Market",
+    "description": "A huge post-war market of alleys selling everything, next to BIFF Square's film-star handprints and famous seed-filled ssiat hotteok.",
+    "bestTime": "Afternoon into evening when the food stalls are busiest.",
+    "transport": "Jagalchi Station (Line 1), Exit 7, or Nampo Station, Exit 1",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gukje_Market%2C_October_2019_03.jpg/960px-Gukje_Market%2C_October_2019_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ahmed",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gukje_Market,_October_2019_03.jpg"
+    }
+  },
+  {
+    "id": "centum-city",
+    "city": "Busan",
+    "name": "Shinsegae Centum City",
+    "korean": "신세계 센텀시티",
+    "category": "shopping",
+    "wiki": "Shinsegae Centum City",
+    "description": "Once the world's largest department store, with a hot-spring spa (Spa Land), cinemas and an ice rink under one roof.",
+    "bestTime": "Rainy days, or relax at Spa Land after a day of walking.",
+    "transport": "Centum City Station (Line 2), Exit 12",
+    "photo": null
+  },
+  {
+    "id": "gamcheon",
+    "city": "Busan",
+    "name": "Gamcheon Culture Village",
+    "korean": "감천문화마을",
+    "category": "culture",
+    "wiki": "Gamcheon Culture Village",
+    "description": "A hillside of pastel-painted houses, street art and winding stairs, nicknamed the 'Machu Picchu of Busan'.",
+    "bestTime": "Morning light. Pick up a stamp-trail map at the information centre.",
+    "transport": "Toseong Station (Line 1), Exit 6, then village bus 2 or 2-2",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Gamcheon_Houses%2C_2024.jpg/960px-Gamcheon_Houses%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Bl00dnFl4mes",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gamcheon_Houses,_2024.jpg"
+    }
+  },
+  {
+    "id": "huinnyeoul",
+    "city": "Busan",
+    "name": "Huinnyeoul Culture Village",
+    "korean": "흰여울문화마을",
+    "category": "culture",
+    "wiki": "Huinnyeoul Culture Village",
+    "description": "White houses on a seaside cliff in Yeongdo with cafés overlooking ships at anchor, a filming spot for the movie 'The Attorney'.",
+    "bestTime": "Sunset, then walk the coastal tunnel path below.",
+    "transport": "Nampo Station (Line 1), then bus 7, 71 or 508 to Huinnyeoul",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Huinnyeoul_information_bureau.jpg/960px-Huinnyeoul_information_bureau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Yeoncong323",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huinnyeoul_information_bureau.jpg"
+    }
+  },
+  {
+    "id": "busan-tower",
+    "city": "Busan",
+    "name": "Busan Tower & Yongdusan Park",
+    "korean": "부산타워",
+    "category": "culture",
+    "wiki": "Busan Tower",
+    "description": "A tower in hilltop Yongdusan Park with panoramic views of the port, Nampo-dong and Yeongdo Bridge.",
+    "bestTime": "Evening for city lights; reach it by escalators from Gwangbok-ro.",
+    "transport": "Nampo Station (Line 1), Exit 7",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Busan_Tower_and_Yongdusan_Park_20200522_003.jpg/960px-Busan_Tower_and_Yongdusan_Park_20200522_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Mobius6",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan_Tower_and_Yongdusan_Park_20200522_003.jpg"
+    }
+  }
+]
